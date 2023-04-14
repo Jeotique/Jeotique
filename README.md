@@ -1,16 +1,22 @@
-### Hi there 👋
+### Jeotique / French developer
 
-<!--
-**Jeotique/Jeotique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **7.62 - OpenFrag** a multiplayer fps game
+- 🌱 I’m currently learning c++
+- 💬 Ask me about discord bot i'm a boss (lol)
+- 📫 How to reach me : discord ? (Jeotique#0001) twitter ? (@jeotique) email ? (jeotique@gmail.com) 
+- ⚡ Fun fact : i'm eating mcdo, pizza, etc every night but i am only 110 lbs
 
-Here are some ideas to get you started:
+### ⭐ GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeotique&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+### My daily routine :
+
+```mermaid
+  graph TD;
+      Code-->Foot (a bit);
+      Foot (a bit)-->Eat;
+      Eat-->Code;
+      Code-->Sleep;
+      Sleep-->Code;
+```
