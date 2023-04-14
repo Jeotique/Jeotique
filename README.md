@@ -16,7 +16,7 @@
   graph TD;
       Code-->Foot (a bit);
       Foot (a bit)-->Eat;
-      Eat-->Code;
-      Code-->Sleep;
+      Eat-->Code again;
+      Code again-->Sleep;
       Sleep-->Code;
 ```
