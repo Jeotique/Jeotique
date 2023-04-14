@@ -14,9 +14,9 @@
 
 ```mermaid
   graph TD;
-      Code-->Foot (a bit);
-      Foot (a bit)-->Eat;
-      Eat-->Code again;
-      Code again-->Sleep;
+      Code-->Foot;
+      Foot-->Eat;
+      Eat-->Code;
+      Code-->Sleep;
       Sleep-->Code;
 ```
