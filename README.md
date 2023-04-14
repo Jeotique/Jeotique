@@ -16,7 +16,7 @@
   graph TD;
       Code-->Foot;
       Foot-->Eat;
-      Eat-->Code;
-      Code-->Sleep;
+      Eat-->Code²;
+      Code²-->Sleep;
       Sleep-->Code;
 ```
