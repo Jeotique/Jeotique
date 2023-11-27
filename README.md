@@ -1,9 +1,9 @@
 ### Jeotique / French developer
 
-- 🔭 I’m currently working on **7.62 - OpenFrag** a multiplayer fps game
-- 🌱 I’m currently learning c++
+- 🔭 I’m currently working on **devland.js** a discord library in nodejs (api wrapper)
+- 🌱 I’m currently learning haskell
 - 💬 Ask me about discord bot i'm a boss (lol)
-- 📫 How to reach me : discord ? (Jeotique#0001) twitter ? (@jeotique) email ? (jeotique@gmail.com) 
+- 📫 How to reach me : discord ? (@jeotique) twitter ? (@jeotique) email ? (jeotique@gmail.com) 
 - ⚡ Fun fact : i'm eating mcdo, pizza, etc every night but i am only 110 lbs
 
 ### ⭐ GitHub Stats
@@ -14,9 +14,9 @@
 
 ```mermaid
   graph TD;
-      Code-->Foot;
-      Foot-->Eat;
-      Eat-->Code-2;
-      Code-2-->Sleep;
-      Sleep-->Code;
+      Code-->Problem;
+      Fix-->NewProblem;
+      FixNewProblem-->Work;
+      Sleep-->WakeUp;
+      NewProblemWithoutReason-->ReturnSleeping;
 ```
