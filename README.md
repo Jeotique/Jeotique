@@ -9,11 +9,3 @@
 ⭐ GitHub Stats
 
 ⚙️ Engineering Workflow
-
-graph LR;
-    Analysis --> Design;
-    Design --> Implementation;
-    Implementation --> Testing;
-    Testing --> Deployment;
-    Deployment --> Monitoring;
-    Monitoring --> Analysis;
