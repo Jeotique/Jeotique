@@ -1,4 +1,4 @@
-🛡️ Jeotique | Software Security Developer @ BattlEye
+🛡️ Jeotique | Software Security Developer @ Matorie
 
 • 🔭 Current Focus: Anti-cheat engineering and low-level system security at BattlEye.
 
